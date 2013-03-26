@@ -1,0 +1,6 @@
+goldopuk_service_homepage:
+    pattern:  /service
+    defaults: { _controller: GoldopukServiceBundle:Default:index }
+goldopuk_service_cassa:
+    pattern:  /service/cassa
+    defaults: { _controller: GoldopukServiceBundle:Default:cassa }

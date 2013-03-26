@@ -1,0 +1,8 @@
+goldopuk_service:
+    resource: "@GoldopukServiceBundle/Resources/config/routing.yml"
+    prefix:   /
+
+goldopuk_front:
+    resource: "@GoldopukFrontBundle/Resources/config/routing.php"
+    prefix:   /
+

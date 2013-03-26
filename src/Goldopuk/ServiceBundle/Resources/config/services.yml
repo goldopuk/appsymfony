@@ -1,0 +1,7 @@
+parameters:
+#    goldopuk_service.example.class: Goldopuk\ServiceBundle\Example
+
+services:
+#    goldopuk_service.example:
+#        class: %goldopuk_service.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
